@@ -1,0 +1,1 @@
+# google_translator_new_po_file
